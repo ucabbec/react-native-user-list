@@ -1,0 +1,5 @@
+
+export const ERROR_GENERATED = 'ERROR_GENERATED';
+
+export const JSON_RECEIVED = 'JSON_RECEIVED';
+
